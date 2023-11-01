@@ -1,0 +1,40 @@
+
+<html>
+<head>
+<title>BIODATA</title>
+</head>
+<marquee>
+<body bgcolor="orange"><font color="black"><font size=30>Biodata</font>
+</marquee>
+<hr>
+<body><font size=5><font color="black">
+<img src="C:\Users\HP\Downloads\IMG-20230914-WA0026.jpg" align="center" height=150 width=150 1px><br>
+Name:V.Bhavadharani<br>
+Father's name:M.Vellingiri<br>
+Mothers's name:V.Santhana selvi<br>
+DOB:19.11.2003<br>
+Address:Saraavanampatti,coimbatore-641035<br>
+Mobile no:1234566543<br>
+Religion:Hindu<br>
+Nationality:Indian<br>
+Gender:Female<br>
+College name:Sri Ramakrishna College of Arts & Science for Women<br>
+Qualification:3rd BCA<br>
+<table style="width:50%"border=3>
+<tr>
+<th>Semester</th>
+<th>Grade</th>
+<th>Cpga %</th>
+</tr>
+<tr>
+<th>1</th>
+<th>S</th>
+<th>80%</th>
+</tr>
+<tr>
+<th>2</th>
+<th>A</th>
+<th>78%</th>
+</tr>
+</body>
+</html>
